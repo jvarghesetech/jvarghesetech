@@ -1,16 +1,19 @@
-## Hi there 👋
+# John Varghese
 
-<!--
-**jvarghesetech/jvarghesetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Toronto-based developer with a passion for building things and breaking boundaries.
+Currently diving deep into Machine Learning and Web Development.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Building
+- Web projects focused on clean design and real functionality
+- Machine Learning experiments — started with Google's Teachable Machine, not stopping there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Exploring
+- Machine Learning & AI
+- TypeScript & modern web development
+
+## 💡 A Bit About Me
+I got into ML before most people my age even knew what it was.
+I learn by doing — every repo here is proof of that.
+
+## 📫 Let's Connect
+- Instagram: [@_johhnn.__](https://instagram.com/_johhnn.__)
