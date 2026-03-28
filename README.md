@@ -1,19 +1,34 @@
-# John Varghese
+# hey, i'm john.
 
-Toronto-based developer with a passion for building things and breaking boundaries.
-Currently diving deep into Machine Learning and Web Development.
+i build things on the internet. sometimes they look good. sometimes they work.
+rarely both — but i'm getting there.
 
-## 🚀 What I'm Building
-- Web projects focused on clean design and real functionality
-- Machine Learning experiments — started with Google's Teachable Machine, not stopping there
+17, toronto. self-taught by doing dumb projects until they stopped being dumb.
+every repo here is something i actually made, not a tutorial i half-finished.
 
-## 🧠 Currently Exploring
-- Machine Learning & AI
-- TypeScript & modern web development
+currently into:
+- 🤖 ai & machine learning
+- 🎮 games & creative coding
+- 🌐 full-stack web stuff
+- 🎨 interfaces that don't suck
 
-## 💡 A Bit About Me
-I got into ML before most people my age even knew what it was.
-I learn by doing — every repo here is proof of that.
+---
 
-## 📫 Let's Connect
-- Instagram: [@_johhnn.__](https://instagram.com/_johhnn.__)
+## stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvarghesetech&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*thanks for stopping by. feel free to browse, judge my commits, or silently stalk like a recruiter.*
