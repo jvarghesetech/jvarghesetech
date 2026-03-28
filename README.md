@@ -1,7 +1,7 @@
 # hey, i'm john.
 
 i build things on the internet. sometimes they look good. sometimes they work.
-rarely both — but i'm getting there.
+rarely both but i'm getting there.
 
 17, toronto. self-taught by doing dumb projects until they stopped being dumb.
 every repo here is something i actually made, not a tutorial i half-finished.
