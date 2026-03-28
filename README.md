@@ -26,8 +26,6 @@ currently into:
 ## stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvarghesetech&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 *thanks for stopping by. feel free to browse, judge my commits, or silently stalk like a recruiter.*
