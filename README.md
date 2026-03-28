@@ -24,12 +24,8 @@ currently into:
 ---
 
 ## stats
-## stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvarghesetech&theme=tokyonight)
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvarghesetech&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
