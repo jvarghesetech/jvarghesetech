@@ -31,41 +31,73 @@
 
 ---
 
-## `// projects`
+## `// featured project`
+
+<div align="center">
+
+![FraserHacks](https://img.shields.io/badge/🏆_FraserHacks_2026-2nd_Place-00FF41?style=for-the-badge&labelColor=0d1117)
+![Mississauga](https://img.shields.io/badge/Mississauga's_Largest_HS_Hackathon-125%2B_Hackers-555?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   VISIONCRAZE                              built in 24hrs    ║
+  ║   ─────────────────────────────────────────────────────      ║
+  ║   problem  →  285 million people worldwide live with         ║
+  ║               visual impairment and can't see the world      ║
+  ║               around them in real time.                      ║
+  ║                                                              ║
+  ║   solution →  AI-powered glasses that narrate your           ║
+  ║               surroundings out loud — obstacles, signs,      ║
+  ║               currency, traffic lights, hazards, terrain.    ║
+  ║               point a camera. it speaks what it sees.        ║
+  ║                                                              ║
+  ║   result   →  🥈 2nd place @ FraserHacks 2026               ║
+  ║               Mississauga's largest high school hackathon    ║
+  ║               125+ hackers competing across Peel Region      ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AI Vision API](https://img.shields.io/badge/AI_Vision_API-00FF41?style=flat-square&logoColor=black)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-555?style=flat-square)
+![MediaDevices API](https://img.shields.io/badge/MediaDevices_API-555?style=flat-square)
+
+<br/>
+
+[![view visioncraze](https://img.shields.io/badge/→_view_visioncraze-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/jvarghesetech/visioncraze)
+
+</div>
+
+---
+
+## `// other projects`
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-### [visioncraze](https://github.com/jvarghesetech/visioncraze) &nbsp;`🏆 hackathon 2026`
-
-> AI-powered glasses that narrate the world in real time — built for the **285 million people** living with visual impairment. Point a camera anywhere: it speaks obstacles, signs, currency, traffic lights, hazards.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI Vision](https://img.shields.io/badge/AI_Vision_API-00FF41?style=flat-square&logoColor=black)
-![Web Speech](https://img.shields.io/badge/Web_Speech_API-555?style=flat-square)
-
-[![repo](https://img.shields.io/badge/→_view_repo-0d1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/jvarghesetech/visioncraze)
-
-</td>
-
-<td width="50%" valign="top">
+<td valign="top">
 
 ### [snake.exe](https://github.com/jvarghesetech/snake-game) &nbsp;`🎮 vanilla js`
 
-> Not your grandpa's snake. Particle effects, screen shake, combo multiplier up to **6×**, 8 speed levels, motion trails — built in pure JS with zero dependencies. Single file. No npm. No excuses.
+> Not your grandpa's snake. Particle effects, screen shake, combo multiplier up to **6×**, 8 speed levels, motion trails — pure JS, zero dependencies, single file.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-555?style=flat-square)
 
-[![repo](https://img.shields.io/badge/→_view_repo-0d1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/jvarghesetech/snake-game)
+[![repo](https://img.shields.io/badge/→_repo-0d1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/jvarghesetech/snake-game)
 [![demo](https://img.shields.io/badge/→_live_demo-0d1117?style=flat-square&logo=googlechrome&logoColor=00FF41)](https://jvarghesetech.github.io/snake-game)
 
 </td>
-
 </tr>
 </table>
 
@@ -83,8 +115,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Canvas API](https://img.shields.io/badge/Canvas_API-00FF41?style=flat-square&logoColor=black)
-![Web Speech API](https://img.shields.io/badge/Web_Speech_API-555?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -142,59 +172,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%"/>
-*Because snake didn't need to be ugly.*
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas](https://img.shields.io/badge/Canvas%20API-0d1117?style=flat-square&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/→%20view%20repo-0d1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/jvarghesetech/snake-game)
-[![Live Demo](https://img.shields.io/badge/→%20live%20demo-0d1117?style=flat-square&logo=googlechrome&logoColor=00FF41)](https://jvarghesetech.github.io/snake-game)
-
-</td>
-</tr>
-</table>
-
----
-
-## `// stack`
-
-<div align="center">
-
-[![skills](https://skillicons.dev/icons?i=python,js,html,css&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## `// stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jvarghesetech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=8b949e&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jvarghesetech&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=00FF41" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=8b949e" />
-
-<br/>
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=jvarghesetech&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `// connect`
-
-```
-instagram   →  @_johhnn.__        https://www.instagram.com/_johhnn.__/
-github      →  @jvarghesetech     https://github.com/jvarghesetech
-```
-
----
-
-<div align="center">
-<sub>every repo here is something i actually made — not a tutorial i half-finished.</sub>
-</div>
