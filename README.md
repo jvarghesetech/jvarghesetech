@@ -138,16 +138,18 @@
 
 <br/><br/>
 
+<a href="https://github.com/jvarghesetech">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
+</a>
+
+</div>
+
 ---
 
 ## `// connect`
 
-<div align="center">
-
 [![instagram](https://img.shields.io/badge/Instagram-%40__johhnn.___-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_johhnn.__/)
 [![github](https://img.shields.io/badge/GitHub-%40jvarghesetech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvarghesetech)
-
-</div>
 
 ---
 
