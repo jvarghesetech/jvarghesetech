@@ -139,18 +139,8 @@
 <br/><br/>
 
 <a href="https://github.com/jvarghesetech">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=8b949e&langs_count=5" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
 </a>
-
-</div>
-
----
-
-## `// achievements`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jvarghesetech&theme=matrix&no-frame=true&column=4&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
