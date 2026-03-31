@@ -24,7 +24,7 @@
   ║   status     →  high school  ×  self-taught dev              ║
   ║   building   →  ai tools  ·  games  ·  interfaces            ║
   ║   approach   →  build dumb things until they stop            ║
-  ║               being dumb                                      ║
+  ║               being dumb                                     ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -56,7 +56,7 @@
   ║               currency, traffic lights, hazards, terrain.    ║
   ║               point a camera. it speaks what it sees.        ║
   ║                                                              ║
-  ║   result   →  🥈 2nd place @ FraserHacks 2026               ║
+  ║   result   →  🥈 2nd place @ FraserHacks 2026                ║
   ║               Mississauga's largest high school hackathon    ║
   ║               125+ hackers competing across Peel Region      ║
   ║                                                              ║
