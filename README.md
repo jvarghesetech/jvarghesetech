@@ -127,7 +127,7 @@
 <div align="center">
 
 <a href="https://github.com/jvarghesetech">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jvarghesetech&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=00FF41" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=jvarghesetech&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=00FF41" height="170"/>
 </a>
 
 <br/><br/>
@@ -136,11 +136,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvarghesetech&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true&area=true&area_color=003311&radius=6" width="100%"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/jvarghesetech">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
-</a>
 
 </div>
 
