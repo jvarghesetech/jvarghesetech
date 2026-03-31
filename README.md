@@ -149,7 +149,7 @@
 ---
 
 <div align="center">
-<sub><code>every repo here is something i actually made — not a tutorial i half-finished.</code></sub>
+<sub><code>every repo here is something i actually made — not a tutorial or half-finished.</code></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%"/>
