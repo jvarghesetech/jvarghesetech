@@ -138,12 +138,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/jvarghesetech">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
-</a>
-
-</div>
-
 ---
 
 ## `// connect`
