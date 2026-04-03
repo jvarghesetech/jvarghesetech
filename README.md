@@ -43,24 +43,24 @@
 <br/>
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   VISIONCRAZE                              built in 24hrs    ║
-  ║   ─────────────────────────────────────────────────────      ║
-  ║   problem  →  285 million people worldwide live with         ║
-  ║               visual impairment and can't see the world      ║
-  ║               around them in real time.                      ║
-  ║                                                              ║
-  ║   solution →  AI-powered glasses that narrate your           ║
-  ║               surroundings out loud — obstacles, signs,      ║
-  ║               currency, traffic lights, hazards, terrain.    ║
-  ║               point a camera. it speaks what it sees.        ║
-  ║                                                              ║
-  ║   result   →  🥈 2nd place @ FraserHacks 2026                ║
-  ║               Mississauga's largest high school hackathon    ║
-  ║               125+ hackers competing across Peel Region      ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   VISIONCRAZE                              built in 24hrs      ║
+║   ─────────────────────────────────────────────────────        ║
+║   problem  →  285 million people worldwide live with           ║
+║               visual impairment and can't see the world        ║
+║               around them in real time.                        ║
+║                                                                ║
+║   solution →  AI-powered glasses that narrate your             ║
+║               surroundings out loud — obstacles, signs,        ║
+║               currency, traffic lights, hazards, terrain.      ║
+║               point a camera. it speaks what it sees.          ║
+║                                                                ║
+║   result   →  🥈 2nd place @ FraserHacks 2026                  ║
+║               Mississauga's largest high school hackathon      ║
+║               125+ hackers competing across Peel Region        ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
