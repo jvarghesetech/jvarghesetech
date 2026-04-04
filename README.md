@@ -22,7 +22,7 @@
   ║   age        →  17                                           ║
   ║   location   →  toronto, canada                              ║
   ║   status     →  high school  ×  self-taught dev              ║
-  ║   building   →  ai tools  ·  games  ·  interfaces            ║
+  ║   building   →  ai tools  ·  interfaces                      ║
   ║   approach   →  build dumb things until they stop            ║
   ║               being dumb                                     ║
   ║                                                              ║
