@@ -1,155 +1,132 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=110&section=header&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=hey%2C+i'm+john+varghese.;17+%2F+toronto+%F0%9F%87%A8%F0%9F%87%A6+%2F+self-taught+builder.;i+learn+by+building+real+things.;currently+deep+in+ai+%26+creative+coding." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:58a6ff&height=230&section=header&text=John%20Varghese&fontSize=50&fontColor=f0f6fc&fontAlignY=32&desc=17%20%C2%B7%20Toronto%20%C2%B7%20Builder&descSize=18&descColor=8b949e&descAlignY=52&animation=twinkling" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%F0%9F%8F%86+2x+Hackathon+Winner+%7C+FraserHacks+%2726;%F0%9F%A7%A0+AI+%2B+Accessibility+Tech;%F0%9F%9A%80+Ship+fast.+Learn+faster." alt="Typing SVG" /></a>
 
 <br/>
 
-[![profile views](https://komarev.com/ghpvc/?username=jvarghesetech&style=flat-square&color=00FF41&labelColor=0d1117&label=profile+views)](https://github.com/jvarghesetech)
-[![followers](https://img.shields.io/github/followers/jvarghesetech?style=flat-square&color=00FF41&labelColor=0d1117&label=followers&logo=github)](https://github.com/jvarghesetech?tab=followers)
-[![instagram](https://img.shields.io/badge/instagram-_johhnn.__-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/_johhnn.__/)
-
-</div>
-
----
-
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   john varghese                          @jvarghesetech      ║
-  ║   ─────────────────────────────────────────────────────      ║
-  ║   age        →  17                                           ║
-  ║   location   →  toronto, canada                              ║
-  ║   status     →  high school  ×  self-taught dev              ║
-  ║   building   →  ai tools  ·  interfaces                      ║
-  ║   approach   →  build dumb things until they stop            ║
-  ║               being dumb                                     ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `// featured project`
-
-<div align="center">
-
-![FraserHacks](https://img.shields.io/badge/🏆_FraserHacks_2026-2nd_Place-00FF41?style=for-the-badge&labelColor=0d1117)
-![Mississauga](https://img.shields.io/badge/Mississauga's_Largest_HS_Hackathon-125%2B_Hackers-555?style=for-the-badge&labelColor=0d1117)
+<p>
+<a href="https://github.com/jvarghesetech"><img src="https://img.shields.io/github/followers/jvarghesetech?label=Followers&style=for-the-badge&color=161b22&labelColor=0d1117&logo=github&logoColor=58a6ff" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=jvarghesetech&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
 <br/>
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   VISIONCRAZE                              built in 24hrs      ║
-║   ─────────────────────────────────────────────────────        ║
-║   problem  →  285 million people worldwide live with           ║
-║               visual impairment and can't see the world        ║
-║               around them in real time.                        ║
-║                                                                ║
-║   solution →  AI-powered glasses that narrate your             ║
-║               surroundings out loud — obstacles, signs,        ║
-║               currency, traffic lights, hazards, terrain.      ║
-║               point a camera. it speaks what it sees.          ║
-║                                                                ║
-║   result   →  🥈 2nd place @ FraserHacks 2026                  ║
-║               Mississauga's largest high school hackathon      ║
-║               125+ hackers competing across Peel Region        ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+💭 high school student who builds things on the internet.
+   sometimes they look good. sometimes they work. rarely both — but i'm getting there.
 ```
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![AI Vision API](https://img.shields.io/badge/AI_Vision_API-00FF41?style=flat-square&logoColor=black)
-![Web Speech API](https://img.shields.io/badge/Web_Speech_API-555?style=flat-square)
-![MediaDevices API](https://img.shields.io/badge/MediaDevices_API-555?style=flat-square)
 
 <br/>
 
-[![view visioncraze](https://img.shields.io/badge/→_view_visioncraze-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/jvarghesetech/visioncraze)
+## 🏆 Featured Projects
 
-</div>
-
----
-
-## `// other projects`
-
-<table width="100%">
+<table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### [snake.exe](https://github.com/jvarghesetech/snake-game) &nbsp;`🎮 vanilla js`
+### 🥽 [VisionCraze](https://github.com/jvarghesetech/visioncraze)
+**AI-Powered Assistive Glasses** — 2nd place at FraserHacks 2026.  
+Real-time object detection & scene description for visually impaired users. Built with computer vision + voice synthesis.
 
-> Not your grandpa's snake. Particle effects, screen shake, combo multiplier up to **6×**, 8 speed levels, motion trails — pure JS, zero dependencies, single file.
+`Python` `OpenCV` `AI/ML` `Accessibility`
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas API](https://img.shields.io/badge/Canvas_API-555?style=flat-square)
+</td>
+<td width="50%" valign="top">
 
-[![repo](https://img.shields.io/badge/→_repo-0d1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/jvarghesetech/snake-game)
-[![demo](https://img.shields.io/badge/→_live_demo-0d1117?style=flat-square&logo=googlechrome&logoColor=00FF41)](https://jvarghesetech.github.io/snake-game)
+### 🐍 [Snake Game](https://github.com/jvarghesetech/snake-game)
+**Not your 2003 snake game.** Particles, combos, screen shake — all in plain JS. Zero dependencies, all vibes.
+
+[▶ Play Live](https://jvarghesetech.github.io/snake-game)
+
+`JavaScript` `Canvas` `Game Dev`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧹 [Gum Desk Reporter](https://github.com/jvarghesetech/gum-desk-reporter-school-)
+**School cleanliness management app.** Dark sidebar UI, localStorage persistence, custodian print view. Single-file HTML/CSS/JS.
+
+[▶ Try It](https://jvarghesetech.github.io/gum-desk-reporter-school-/)
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 💕 [20 Months Together](https://github.com/jvarghesetech/20months-together)
+**Hand-crafted anniversary website.** Because some things deserve more than a text.
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## `// stack`
+## ⚡ Tech Stack
 
 <div align="center">
 
-[![skills](https://skillicons.dev/icons?i=python,js,html,css,git,vscode&theme=dark&perline=6)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+
+</div>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## `// stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/jvarghesetech">
-  <img src="https://streak-stats.demolab.com?user=jvarghesetech&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=00FF41" height="170"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvarghesetech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jvarghesetech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 <br/><br/>
 
-<a href="https://github.com/jvarghesetech">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvarghesetech&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true&area=true&area_color=003311&radius=6" width="100%"/>
-</a>
-
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
----
+<br/>
 
-## `// connect`
+## 🎯 What I'm About
 
-[![instagram](https://img.shields.io/badge/Instagram-%40__johhnn.___-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_johhnn.__/)
-[![github](https://img.shields.io/badge/GitHub-%40jvarghesetech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvarghesetech)
+```text
+🔭  Currently exploring    →  AI/ML, accessibility tech, creative coding
+🏗️  Building philosophy    →  Scope it. Ship it. Learn from it.
+🏆  Hackathon record       →  2 wins including FraserHacks 2026 (2nd place)
+📍  Based in               →  Toronto, ON
+🎓  Student at             →  John Fraser Secondary School
+```
 
----
+<br/>
 
 <div align="center">
-<sub><code>every repo here is something i actually made — not a tutorial or half-finished.</code></sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvarghesetech&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:58a6ff&height=100&section=footer" width="100%" />
+
+*thanks for stopping by. feel free to browse, judge my commits, or silently stalk like a recruiter.* 🤝
+
+</div>
