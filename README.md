@@ -90,16 +90,14 @@ Real-time object detection & scene description for visually impaired users. Buil
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvarghesetech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=jvarghesetech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvarghesetech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jvarghesetech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
 
 <br/>
 
