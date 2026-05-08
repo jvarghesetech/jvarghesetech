@@ -88,18 +88,7 @@ Real-time object detection & scene description for visually impaired users. Buil
 
 <br/>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvarghesetech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=jvarghesetech&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvarghesetech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<br/>
 
 ## 🎯 What I'm About
 
