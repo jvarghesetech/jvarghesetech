@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:58a6ff&height=230&section=header&text=John%20Varghese&fontSize=50&fontColor=f0f6fc&fontAlignY=32&desc=Grade%2011%20%C2%B7%20Toronto%20%C2%B7%20Builder&descSize=18&descColor=8b949e&descAlignY=52&animation=twinkling" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%8F%86+National+Winner+%40+JAMHacks+10;%F0%9F%A5%88+2nd+%40+FraserHacks+%2726+%7C+Best+in+Show+%40+Bellevue+CS;%F0%9F%A7%A0+AI+%2B+CV+%2B+Hardware+%2B+Accessibility;%F0%9F%9A%80+Ship+fast.+Learn+faster." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%94%A5+4+Consecutive+Hackathon+Wins;%F0%9F%8F%86+National+Winner+%40+JAMHacks+10;%F0%9F%A5%88+2nd+%40+FraserHacks+%2726+%7C+Best+in+Show+%40+Bellevue+CS;%F0%9F%A5%88+2nd+%40+Cursor+Hackathon+Toronto;%F0%9F%A7%A0+AI+%2B+CV+%2B+Hardware+%2B+Accessibility;%F0%9F%9A%80+Ship+fast.+Learn+faster." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,13 +23,14 @@
 
 <br/>
 
-## 🏆 Hackathon Record
+## 🔥 4 Consecutive Hackathon Wins
 
 <div align="center">
 
 | Event | Result | Project |
 |---|---|---|
 | 🥇 **JAMHacks 10** | National-level win — Best Sustainability Hack | Frame A Farm |
+| 🥈 **Cursor Hackathon Toronto** | 2nd place | In-VOICE |
 | 🥈 **FraserHacks 2026** | 2nd place (sole technical lead) | VisionCraze |
 | 🏅 **Bellevue College CS Hackathon** | Best in Show | TaskMaster |
 
@@ -63,12 +64,23 @@ AR-assisted soil analysis using Arduino sensors, with a Flask backend tunneled v
 <tr>
 <td width="50%" valign="top">
 
+### 🧾 In-VOICE
+**Voice-to-invoice automation for wedding photographers** — 2nd place at Cursor Hackathon Toronto.
+Converts spoken job details into structured invoices, syncs to Google Sheets, and auto-sends them by email.
+
+`OpenAI Whisper` `Claude API` `Google Sheets` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🍽️ FoodRoute
 **Newcomer food bank routing app** built in a 48-hour hackathon. Maps optimal routes between food banks for newcomers using real Toronto-area data.
 
 `Next.js` `Mapbox GL` `Turf.js`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧭 SettleRoute
@@ -77,8 +89,6 @@ AR-assisted soil analysis using Arduino sensors, with a Flask backend tunneled v
 `Next.js` `MongoDB Atlas` `Claude API`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ✋ Gesture OS Navigation
@@ -87,6 +97,8 @@ AR-assisted soil analysis using Arduino sensors, with a Flask backend tunneled v
 `Python` `MediaPipe Hands` `PyAutoGUI`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐍 [Snake Game](https://github.com/jvarghesetech/snake-game)
@@ -97,19 +109,12 @@ AR-assisted soil analysis using Arduino sensors, with a Flask backend tunneled v
 `JavaScript` `Canvas` `Game Dev`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧹 [Gum Desk Reporter](https://github.com/jvarghesetech/gum-desk-reporter-school-)
 **School cleanliness management app.** Dark sidebar UI, localStorage persistence, custodian print view. Single-file HTML/CSS/JS.
 
 [▶ Try It](https://jvarghesetech.github.io/gum-desk-reporter-school-/)
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
 
 `HTML` `CSS` `JavaScript`
 
@@ -147,7 +152,7 @@ AR-assisted soil analysis using Arduino sensors, with a Flask backend tunneled v
 ```text
 🔭  Currently exploring    →  AI/ML, computer vision, accessibility tech, hardware hacking
 🏗️  Building philosophy    →  Scope it. Ship it. Learn from it.
-🏆  Hackathon record       →  JAMHacks 10 (national win) · FraserHacks 2026 (2nd) · Bellevue CS Hackathon (Best in Show)
+🏆  Hackathon record       →  4 consecutive wins: JAMHacks 10 (national win) · FraserHacks 2026 (2nd) · Bellevue CS Hackathon (Best in Show) · Cursor Hackathon Toronto (2nd)
 📍  Based in               →  Toronto, ON
 🎓  Student at             →  John Fraser Secondary School
 🛠️  Side roles             →  AV/Livestream Technical Lead @ St. Francis of Assisi Church
