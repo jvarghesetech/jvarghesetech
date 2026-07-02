@@ -111,9 +111,6 @@ AR-assisted soil analysis using Arduino sensors, with a Flask backend tunneled v
 </td>
 <td width="50%" valign="top">
 
-### 💕 [20 Months Together](https://github.com/jvarghesetech/20months-together)
-**Hand-crafted anniversary website.** Because some things deserve more than a text.
-
 `HTML` `CSS` `JavaScript`
 
 </td>
