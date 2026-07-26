@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:58a6ff&height=230&section=header&text=John%20Varghese&fontSize=50&fontColor=f0f6fc&fontAlignY=32&desc=Grade%2011%20%C2%B7%20Toronto%20%C2%B7%20Builder&descSize=18&descColor=8b949e&descAlignY=52&animation=twinkling" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%94%A5+5+Hackathon+Wins+%2B+Top+6+Finalist;%F0%9F%8F%86+National+Winner+%40+JAMHacks+10;%F0%9F%8F%85+Most+Impactful+Project+%40+JecHacks+2026;%F0%9F%A5%88+Runner-Up+%40+Cursor+Toronto+%26+FraserHacks+%2726;%F0%9F%8E%96%EF%B8%8F+Top+6+of+300%2B+%40+Cursor+Hackathon+(July);%F0%9F%A7%A0+AI+%2B+CV+%2B+Hardware+%2B+Accessibility;%F0%9F%9A%80+Ship+fast.+Learn+faster." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%94%A5+6x+Hackathon+Winner;%F0%9F%8F%86+Best+Sustainability+Hack+%40+JAMHacks+10;%F0%9F%8F%85+Most+Impactful+Project+%40+JecHacks+2026;%F0%9F%A5%88+Runner-Up+%40+Cursor+Toronto+%26+FraserHacks+%2726;%F0%9F%8E%96%EF%B8%8F+Top+6+of+300%2B+%40+Cursor+Hackathon+(July);%F0%9F%A7%A0+AI+%2B+CV+%2B+Hardware+%2B+Accessibility;%F0%9F%9A%80+Ship+fast.+Learn+faster." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,13 +23,13 @@
 
 <br/>
 
-## 🔥 5 Hackathon Wins + Top 6 Finalist
+## 🔥 6x Hackathon Winner
 
 <div align="center">
 
 | Event | Result | Project |
 |---|---|---|
-| 🥇 **JAMHacks 10** | National-level win — Best Sustainability Hack | Frame A Farm |
+| 🥇 **JAMHacks 10** | Best Sustainability Hack | Frame A Farm |
 | 🏅 **JecHacks 2026** | Most Impactful Project | FoodRoute |
 | 🥈 **Cursor Hackathon Toronto** | Runner-Up | In-VOICE |
 | 🥈 **FraserHacks 2026** | Runner-Up (sole technical lead) | VisionCraze |
@@ -56,7 +56,7 @@ Real-time face recognition, scene narration, offline speech recognition, and an 
 <td width="50%" valign="top">
 
 ### 🌱 Frame A Farm
-**National-winning sustainability hack** — Best Sustainability Hack, JAMHacks 10.
+**Best Sustainability Hack, JAMHacks 10.**
 AR-assisted soil analysis using Arduino sensors, with a Flask backend tunneled via Cloudflare and a Netlify-hosted frontend, powered by the Claude API.
 
 `Arduino` `Flask` `Cloudflare Tunnel` `Netlify` `Claude API`
@@ -166,7 +166,7 @@ Converts spoken job details into structured invoices, syncs to Google Sheets, an
 ```text
 🔭  Currently exploring    →  AI/ML, computer vision, accessibility tech, hardware hacking
 🏗️  Building philosophy    →  Scope it. Ship it. Learn from it.
-🏆  Hackathon record       →  5 wins + top 6 finalist: JAMHacks 10 · JecHacks 2026 (Most Impactful) · Cursor Toronto (Runner-Up) · FraserHacks 2026 (Runner-Up) · Bellevue CS (Best in Show) · Cursor July (Top 6 of 300+)
+🏆  Hackathon record       →  6x hackathon winner: JAMHacks 10 (Best Sustainability Hack) · JecHacks 2026 (Most Impactful) · Cursor Toronto (Runner-Up) · FraserHacks 2026 (Runner-Up) · Bellevue CS (Best in Show) · Cursor July (Top 6 of 300+)
 📍  Based in               →  Toronto, ON
 🎓  Student at             →  John Fraser Secondary School
 🛠️  Side roles             →  AV/Livestream Technical Lead @ St. Francis of Assisi Church
